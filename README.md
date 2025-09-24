@@ -16,6 +16,6 @@ El Gobierno de Cantabria no cuida su marca, ni en el ámbito digital ni en los s
 
 Ojalá el Gobierno de Cantabria renueve y cuide su marca, pues incide directamente en la percepción de la institución por parte de la ciudadanía y sus propios trabajadores.
 
-|                                     |                               |
-| ----------------------------------- | ----------------------------- |
-| ![](/imagen/assets/comic-sans.jpeg) | ![](/imagen/assets/mare.jpeg) |
+|                                          |                                    |
+| ---------------------------------------- | ---------------------------------- |
+| ![](/2016-imagen/assets/comic-sans.jpeg) | ![](/2016-imagen/assets/mare.jpeg) |
