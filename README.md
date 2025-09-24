@@ -1,8 +1,8 @@
-# gobierno-de-cantabria
+# gobcantabria
 
 Descargas y experimentos relacionados con el Gobierno de Cantabria.
 
-## logos
+## imagen
 
 En 2016 el Gobierno de Cantabria convocó un proceso participativo abierto a toda la ciudadanía, para renovar su imagen corporativa.
 
@@ -16,6 +16,6 @@ El Gobierno de Cantabria no cuida su marca, ni en el ámbito digital ni en los s
 
 Ojalá el Gobierno de Cantabria renueve y cuide su marca, pues incide directamente en la percepción de la institución por parte de la ciudadanía y sus propios trabajadores.
 
-|                      |                |
-| -------------------- | -------------- |
-| ![](comic-sans.jpeg) | ![](mare.jpeg) |
+|                                     |                               |
+| ----------------------------------- | ----------------------------- |
+| ![](/imagen/assets/comic-sans.jpeg) | ![](/imagen/assets/mare.jpeg) |
