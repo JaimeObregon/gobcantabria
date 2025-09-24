@@ -2,7 +2,7 @@
 
 Descargas y experimentos relacionados con el Gobierno de Cantabria.
 
-## imagen
+## `2016-imagen`
 
 En 2016 el Gobierno de Cantabria convocó un proceso participativo abierto a toda la ciudadanía, para renovar su imagen corporativa.
 
