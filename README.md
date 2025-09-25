@@ -2,7 +2,7 @@
 
 Descargas y experimentos relacionados con el Gobierno de Cantabria.
 
-## `20202-presupuestos`
+## `2020-presupuestos`
 
 A finales de 2019 escribí un intérprete para estructurar y entender los presupuestos del Gobierno de Cantabria para el año siguiente. Ello me permitió
 encontrar [algunos errores y partidas mal sumadas](https://x.com/JaimeObregon/status/1211653895442911232).
