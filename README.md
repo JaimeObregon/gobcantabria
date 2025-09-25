@@ -2,6 +2,14 @@
 
 Descargas y experimentos relacionados con el Gobierno de Cantabria.
 
+## `2020-promesas`
+
+En 2017 el Gobierno de Cantabria anunció una mina de zinc que crearía 2 000 puestos de trabajo en una de las comarcas más deprimidas de la región. Por supuesto todo era humo y nunca hubo ni mina de zinc ni puestos de trabajo.
+
+Pero se me ocurrió un experimento divertido: descargué más de 23 000 comunicados institucionales del Gobierno regional. Una década de anuncios y notas de emprsas. Y con un simple _script_ localicé todas las promesas de creación de empleo.
+
+Conté más de 95.000 empleos prometidos. Y lo [conté en mis redes sociales](https://x.com/JaimeObregon/status/1286827225971556359), donde se hizo viral.
+
 ## `2020-presupuestos`
 
 A finales de 2019 escribí un intérprete para estructurar y entender los presupuestos del Gobierno de Cantabria para el año siguiente. Ello me permitió
