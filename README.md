@@ -4,15 +4,15 @@ Experimentos relacionados con el Gobierno de Cantabria.
 
 Tengo otros con el Ayuntamiento de Santander, tales como [Retrosantander](https://github.com/JaimeObregon/retrosantander) o [`policiasantander`](https://github.com/JaimeObregon/policiasantander) (este último aún en desarrollo a fecha de hoy).
 
-## `2024-boletin.de`
+## `boletin.de` (2024)
 
 Un nuevo visor para el Boletín Oficial de Cantabria. Inconcluso a día de hoy, pero visible en [boletin.de](https://boletin.de). Publicaré su código fuente en [`JaimeObregon/boletin.de`](https://github.com/JaimeObregon/boletin.de).
 
-## `2020-contratosdecantabria.es`
+## `contratosdecantabria.es` (2020-2022)
 
 Transparencia efectiva en los contratos del gobierno regional. Véase [contratosdecantabria.es](https://contratosdecantabria.es) y su propio repositorio en [`JaimeObregon/contratosdecantabria.es`](https://github.com/JaimeObregon/contratosdecantabria.es). (Si no lo encuentras allí, es porque aún no he terminado una refactorización que quiero hacer antes de liberar el código).
 
-## `2020-bocantabria`
+## `bocantabria` (2020-2024)
 
 Llevé el Boletín Oficial de la región a [𝕏 (Twitter)](https://x.com/bocantabria) y [Telegram](@BOCantabria), sumando entre 2020 y 2024, varios miles de lectores en estos canales sociales. Expliqué los motivos para crear y matar este proyecto [en su _post mortem_](https://x.com/JaimeObregon/status/1768201177353564175).
 
