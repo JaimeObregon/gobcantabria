@@ -14,9 +14,7 @@ Transparencia efectiva en los contratos del gobierno regional. Véase [contratos
 
 ## `bocantabria` (2020-2024)
 
-Llevé el Boletín Oficial de la región a [𝕏 (Twitter)](https://x.com/bocantabria) y [Telegram](@BOCantabria), sumando entre 2020 y 2024, varios miles de lectores en estos canales sociales. Expliqué los motivos para crear y matar este proyecto [en su _post mortem_](https://x.com/JaimeObregon/status/1768201177353564175).
-
-El proyecto tiene su propio repositorio en [`JaimeObregon/BOCantabria`](https://github.com/JaimeObregon/BOCantabria). Si no lo ves allí, es porque quiero revisar el código antes de publicarlo y aún no lo he hecho.
+Llevé el Boletín Oficial de la región a [𝕏 (Twitter)](https://x.com/bocantabria) y [Telegram](https://t.me/BOCantabria), sumando entre 2020 y 2024, varios miles de lectores en estos canales sociales. Expliqué los motivos para crear y matar este proyecto [en su _post mortem_](https://x.com/JaimeObregon/status/1768201177353564175). Descansa en su propio repositorio: [`JaimeObregon/BOCantabria`](https://github.com/JaimeObregon/BOCantabria). Si todavía no lo ves allí, es porque aún no he terminado la revisión previa a su publicación.
 
 ## `2020-promesas`
 
