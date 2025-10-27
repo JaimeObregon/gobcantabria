@@ -2,20 +2,6 @@
 
 Experimentos relacionados con el Gobierno de Cantabria.
 
-Tengo otros con el Ayuntamiento de Santander, tales como [Retrosantander](https://github.com/JaimeObregon/retrosantander) o [`policiasantander`](https://github.com/JaimeObregon/policiasantander) (este último aún en desarrollo a fecha de hoy).
-
-## `boletin.de` (2024)
-
-Un nuevo visor para el Boletín Oficial de Cantabria. Inconcluso a día de hoy, pero visible en [boletin.de](https://boletin.de). Publicaré su código fuente en [`JaimeObregon/boletin.de`](https://github.com/JaimeObregon/boletin.de).
-
-## `contratosdecantabria.es` (2020-2022)
-
-Transparencia efectiva en los contratos del gobierno regional. Véase [contratosdecantabria.es](https://contratosdecantabria.es) y su propio repositorio en [`JaimeObregon/contratosdecantabria.es`](https://github.com/JaimeObregon/contratosdecantabria.es). (Si no lo encuentras allí, es porque aún no he terminado una refactorización que quiero hacer antes de liberar el código).
-
-## `bocantabria` (2020-2024)
-
-Llevé el Boletín Oficial de la región a [𝕏 (Twitter)](https://x.com/bocantabria) y [Telegram](https://t.me/BOCantabria), sumando entre 2020 y 2024, varios miles de lectores en estos canales sociales. Expliqué los motivos para crear y matar este proyecto [en su _post mortem_](https://x.com/JaimeObregon/status/1768201177353564175). Descansa en su propio repositorio: [`JaimeObregon/BOCantabria`](https://github.com/JaimeObregon/BOCantabria). Si todavía no lo ves allí, es porque aún no he terminado la revisión previa a su publicación.
-
 ## `2020-promesas`
 
 En 2017 el Gobierno de Cantabria anunció una mina de zinc que crearía 2 000 puestos de trabajo en una de las comarcas más deprimidas de la región. Por supuesto todo era humo y nunca hubo ni mina de zinc ni puestos de trabajo.
@@ -58,3 +44,23 @@ Ojalá el Gobierno de Cantabria renueve y cuide su marca, pues incide directamen
 |                                          |                                    |
 | ---------------------------------------- | ---------------------------------- |
 | ![](/2016-imagen/assets/comic-sans.jpeg) | ![](/2016-imagen/assets/mare.jpeg) |
+
+# Otros proyectos
+
+He trabajado en otros proyectos mayores, que mantengo en repositorios separados.
+
+## `boletin.de` (2024)
+
+Un nuevo visor para el Boletín Oficial de Cantabria. Inconcluso a día de hoy, pero visible en [boletin.de](https://boletin.de). Publicaré su código fuente en [`JaimeObregon/boletin.de`](https://github.com/JaimeObregon/boletin.de).
+
+## `contratosdecantabria.es` (2020-2022)
+
+Transparencia efectiva en los contratos del gobierno regional. Véase [contratosdecantabria.es](https://contratosdecantabria.es) y su propio repositorio en [`JaimeObregon/contratosdecantabria.es`](https://github.com/JaimeObregon/contratosdecantabria.es). (Si no lo encuentras allí, es porque aún no he terminado una refactorización que quiero hacer antes de liberar el código).
+
+## `bocantabria` (2020-2024)
+
+Llevé el Boletín Oficial de la región a [𝕏 (Twitter)](https://x.com/bocantabria) y [Telegram](https://t.me/BOCantabria), sumando entre 2020 y 2024, varios miles de lectores en estos canales sociales. Expliqué los motivos para crear y matar este proyecto [en su _post mortem_](https://x.com/JaimeObregon/status/1768201177353564175). Descansa en su propio repositorio: [`JaimeObregon/BOCantabria`](https://github.com/JaimeObregon/BOCantabria). Si todavía no lo ves allí, es porque aún no he terminado la revisión previa a su publicación.
+
+# Ayuntamiento de Santander
+
+También he hecho algunos experimentos con el Ayuntamiento de Santander, tales como [Retrosantander](https://github.com/JaimeObregon/retrosantander) o [`policiasantander`](https://github.com/JaimeObregon/policiasantander) (este último aún en desarrollo a fecha de hoy).
